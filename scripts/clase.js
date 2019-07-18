@@ -576,3 +576,4 @@ async function obtenerPersonajes() {
 
 obtenerPersonajes()
 
+//¿Qué pasa si se desea crear una cadena con caracteres en mayúscula, pero la cadena es una cadena vacía.
